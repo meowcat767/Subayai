@@ -2,7 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/MeowLang/MeowLang.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Subayai/Subayai.mpl" folder="" />
     </projectModules>
   </component>
 </project>

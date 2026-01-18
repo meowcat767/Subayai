@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:0b6f5dab-1ede-44ef-8cb6-22cd49cf9467(MeowLang.editor)">
+<model ref="r:0b6f5dab-1ede-44ef-8cb6-22cd49cf9467(Subayai.editor)">
   <persistence version="9" />
   <languages>
     <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="15" />

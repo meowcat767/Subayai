@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:5a89259a-fdd5-49d9-8fe7-a9768b682687(MeowLang.structure)">
+<model ref="r:5a89259a-fdd5-49d9-8fe7-a9768b682687(Subayai.structure)">
   <persistence version="9" />
   <languages>
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
