@@ -29,5 +29,11 @@
       <property role="3F0ifm" value="print &lt;space&gt; &lt;property text&gt;" />
     </node>
   </node>
+  <node concept="24kQdi" id="1h$GaYG$t56">
+    <ref role="1XX52x" to="be7m:1h$GaYG$t52" resolve="StringLiteral" />
+    <node concept="3F0ifn" id="1h$GaYG$t58" role="2wV5jI">
+      <property role="3F0ifm" value="&quot;\&quot;&quot;&lt;property value&gt;&quot;\&quot;&quot;" />
+    </node>
+  </node>
 </model>
 
