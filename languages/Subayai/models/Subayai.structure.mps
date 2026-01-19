@@ -94,6 +94,7 @@
     <node concept="1TJgyi" id="1h$GaYG$t5i" role="1TKVEl">
       <property role="IQ2nx" value="1469493646990627154" />
       <property role="TrG5h" value="value" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
   </node>
 </model>
