@@ -35,5 +35,11 @@
       <property role="3F0ifm" value="&quot;\&quot;&quot;&lt;property value&gt;&quot;\&quot;&quot;" />
     </node>
   </node>
+  <node concept="24kQdi" id="4upETP$uL_t">
+    <ref role="1XX52x" to="be7m:1h$GaYG$t5e" resolve="BoolLiteral" />
+    <node concept="3F0ifn" id="4upETP$uLQC" role="2wV5jI">
+      <property role="3F0ifm" value="&lt;property value&gt;" />
+    </node>
+  </node>
 </model>
 
